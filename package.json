@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-salemove",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SaleMove's shareable ESLint config",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/salemove/eslint-config-salemove#readme",
   "dependencies": {
     "eslint": "^3.2.2",
-    "eslint-config-google": "^0.6.0"
+    "eslint-config-google": "^0.6.0",
+    "eslint-plugin-import": "^1.15.0"
   }
 }
