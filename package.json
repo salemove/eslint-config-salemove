@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-salemove",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "SaleMove's shareable ESLint config",
   "main": "index.js",
   "scripts": {
