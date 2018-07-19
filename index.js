@@ -12,6 +12,7 @@ module.exports = {
   rules: {
     "max-len": ["error", 120],
     "require-jsdoc": "off",
-    "no-only-tests/no-only-tests": "error"
+    "no-only-tests/no-only-tests": "error",
+    "quotes": ["error", "single", {avoidEscape: true}]
   }
 };
